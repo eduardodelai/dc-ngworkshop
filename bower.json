@@ -1,0 +1,19 @@
+{
+  "name": "dc-ngworkshop",
+  "version": "0.0.1",
+  "description": "AngularJS Workshop at Datacoper",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.x",
+    "jquery": "2.2.x",
+    "angular": "1.5.x"
+  }
+}
